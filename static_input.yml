@@ -1,0 +1,4 @@
+---
+static_destination_network: 10.0.0.0
+static_subnet_mask: 255.255.255.255
+next_hop: 192.168.1.254

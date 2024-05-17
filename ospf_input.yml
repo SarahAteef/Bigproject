@@ -1,0 +1,6 @@
+---
+ospf_process_id: 1
+ospf_network: 192.168.0.0
+ospf_wildcard_mask: 0.0.255.255
+ospf_area: 0
+

@@ -1,0 +1,3 @@
+router bgp {{ bgp_as_number }}
+neighbor {{ neighbor.ip_address }} remote-as {{ neighbor.remote_as }}
+neighbor {{ neighbor.ip_address }} description {{ neighbor.description }}
